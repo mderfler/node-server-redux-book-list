@@ -1,4 +1,4 @@
-# express-static-file-server for blog api
+# express-static-file-server for redux booklist example
 ## uses json file for storage - no database. easy to change routes and objects: for example, posts to users
 
 ## Running
